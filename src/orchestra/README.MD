@@ -1,0 +1,1 @@
+Logic and Colaboration between security/storage/datasource package
