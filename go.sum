@@ -1,0 +1,7 @@
+github.com/go-chi/chi v1.5.0 h1:2ZcJZozJ+rj6BA0c19ffBUGXEKAT/aOLOtQjD46vBRA=
+github.com/go-chi/chi v1.5.0/go.mod h1:REp24E+25iKvxgeTfHmdUoL5x15kBiDBlnIl5bCwe2k=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/robbert229/jwt v1.0.0 h1:GOQKYbMZMm51GZJuUG6O2RwVg87xqwwqBuZAotAk/ik=
+github.com/robbert229/jwt v2.0.0+incompatible h1:5Pc2FCpA2ahofO4QrWzXXQc0RZYfrZu0TSWHLcTOLz0=
+github.com/robbert229/jwt v2.0.0+incompatible/go.mod h1:I0pqJYBbhfQce4mJL2X6pYnk3T1oaAuF2ou8rSWpMBo=
